@@ -1,4 +1,4 @@
-# Human-Inspired Sudoku Solver
+# Modified Sudoku Solver
 
 This project implements a Sudoku solver that combines **human-style logical strategies** with **recursive backtracking using MRV (Minimum Remaining Values)**. The solver is designed to be **modular, effective, and general**, capable of solving any valid 9×9 Sudoku puzzle.
 
